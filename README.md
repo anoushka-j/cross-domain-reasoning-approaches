@@ -1,5 +1,5 @@
 # cross-domain-reasoning-approaches
-### FAQ 
+## FAQ 
 
 Some answers to questions you may have. 
 
