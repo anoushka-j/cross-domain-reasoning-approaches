@@ -1,4 +1,12 @@
 # cross-domain-reasoning-approaches
+
+## Table of Contents 
+#### Summaries 
+#### FAQ
+#### Future Directions 
+
+## Summaries 
+
 ## FAQ 
 
 Some answers to questions you may have. 
@@ -7,6 +15,7 @@ Some answers to questions you may have.
 
 It is a fair question. After all, any sufficiently capable language model can produce analogies when prompted. However, it is important to note that the analogies it produces are drawn from patterns in its training data, which are recombinations of parallels that have already been articulated somewhere on the internet, and are likely less helpful when it comes to creating new connections which could lead to new hypotheses. By contrast, the approaches I devise often involve geometry. This is for the purpose of possibly retrieving/creating genuinely novel connections that do not exist yet in some form of articulation that was scraped to train an enormous LLM.  The geometric approach is thus specifically designed to find connections between fields that have never been in conversation. 
 
+## Future Directions 
 
 
 
